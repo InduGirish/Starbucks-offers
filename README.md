@@ -38,3 +38,5 @@ Offer type preferred by customers based on their age and income:
 
 #### Other users:
 <img src="images/other.png"/>
+
+A detailed write-up is given [here](https://github.com/InduGirish/Starbucks-offers/blob/main/Starbucks_Blog_Post.pdf).

@@ -24,7 +24,7 @@ Some users might make a purchase through the app without having received an offe
 
 ## Python Libraries 
 
-Libraries used are listed in 'requirements.txt' file. Run the command 'pip install -r requirements.txt' in command line to install them.
+Libraries used are listed in 'requiremts.txt' file. Run the command 'pip install -r requiremts.txt' in command line to install them.
 
 ## Results
 
